@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "mode": "NORMAL",
+      "food": "물 1L",
+      "value": "체내 수분량 늘리기",
+      "img": "https://yoonhees2.github.io/protein_page/ModeRecom/water.png"
+    },
+    {
+      "mode": "NORMAL",
+      "food": "한식 위주 식단",
+      "value": "포만감을 유지해줘요!",
+      "img": "https://yoonhees2.github.io/protein_page/ModeRecom/bibimbap.png"
+    },
+    {
+      "mode": "DIET",
+      "food": "키위샐러드 100g",
+      "value": "32kcal",
+      "img": "https://yoonhees2.github.io/protein_page/ModeRecom/salad.png"
+    },
+    {
+      "mode": "DIET",
+      "food": "호밀빵 100g",
+      "value": "259kcal",
+      "img": "https://yoonhees2.github.io/protein_page/ModeRecom/beef.png"
+    },
+    {
+      "mode": "DIET",
+      "food": "소고기 100g",
+      "value": "250kcal",
+      "img": "https://yoonhees2.github.io/protein_page/ModeRecom/beef.png"
+    },
+    {
+      "mode": "DIET",
+      "food": "유부+두부 200g",
+      "value": "122kcal",
+      "img": "https://yoonhees2.github.io/protein_page/ModeRecom/tofu.png"
+    },
+    {
+      "mode": "BULK_UP",
+      "food": "닭가슴살 200g",
+      "value": "338kcal",
+      "img": "https://yoonhees2.github.io/protein_page/ModeRecom/chicken.png"
+    },
+    {
+      "mode": "BULK_UP",
+      "food": "우유 200ml",
+      "value": "42kcal",
+      "img": "https://yoonhees2.github.io/protein_page/ModeRecom/milk.png"
+    },
+    {
+      "mode": "BULK_UP",
+      "food": "흑미밥 180g",
+      "value": "330kcal",
+      "img": "https://yoonhees2.github.io/protein_page/ModeRecom/rice.png"
+    },
+    {
+      "mode": "BULK_UP",
+      "food": "계란찜 2알",
+      "value": "166kcal",
+      "img": "https://yoonhees2.github.io/protein_page/ModeRecom/egg.png"
+    }
+  ]
+}
